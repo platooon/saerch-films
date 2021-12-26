@@ -10,11 +10,11 @@
 
 
 -  Since the data about all the movies was stored in csv files, we used the built-in python library ```csv```  
-###### Each library used in our program is already built into the python language, so there is no need to resort to installing additional modules
+###### Each library used in our program is already built into the python language, so there is no need to resort to installing additional modules.
 ---
 # **Usage**
 
-##### The following commands will help you choose a list of films that our program has selected for you based on your wishes
+##### The following commands will help you choose a list of films that our program has selected for you based on your wishes.
 - ###### Number of films:
 ```
 --N (or -n) 5
