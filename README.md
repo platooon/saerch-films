@@ -4,15 +4,16 @@
 ---
 
 # **Built with**
----
+
 ##### To create our search engine, we used 2 libraries:
 -  To create a console utility, the ```argparse``` library was used
 
 
 -  Since the data about all the movies was stored in csv files, we used the built-in python library ```csv```  
 ###### Each library used in our program is already built into the python language, so there is no need to resort to installing additional modules
-# **Usage**
 ---
+# **Usage**
+
 ##### The following commands will help you choose a list of films that our program has selected for you based on your wishes
 - ###### Number of films:
 ```
@@ -34,6 +35,7 @@
 ```
 --regexp (or -r) love
 ```
-# **Contact**
 ---
+# **Contact**
+
 Platon Gulik - platongulik@gmail.com
